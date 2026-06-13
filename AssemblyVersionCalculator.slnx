@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AssemblyVersionCalculator.vcxproj" />
+  <Project Path="AssemblyVersionCalculator.vcxproj" Id="cbba2f90-047b-420b-96b2-0b44d9f94cae" />
 </Solution>
